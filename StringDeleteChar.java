@@ -6,7 +6,10 @@ public class StringDeleteChar {
 
 
 
-
+public static void main(String[] args) {
+	
+	
+}
 
 
 public static String deleteChar(String s, char a) {

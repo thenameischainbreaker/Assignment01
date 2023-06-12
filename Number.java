@@ -2,7 +2,7 @@ package Assignment01;
 
 
 
-public class Number{
+ class Number{
 long number;
 
 public static void main(String[] args) {
